@@ -8,7 +8,10 @@ This project documents the setup of a **production-like OpenStack cloud environm
 - **Infrastructure automation** (Terraform, Ansible)  
 - **DevOps workflows** (CI/CD, monitoring, logging)  
 
-The environment will be used to **spin up additional VMs** for testing configurations, deploying applications, and simulating real-world cloud operations.  
+The environment will be used to **spin up additional VMs** for testing configurations, deploying applications, and simulating real-world cloud operations.
+
+
+![Display Me](https://github.com/AhmadMWaddah/DevOps-Cloud-Linux-BootCamp/blob/master/AMW%20DevOps%20DevStack%20Linux.jpeg)
 
 ---
 
